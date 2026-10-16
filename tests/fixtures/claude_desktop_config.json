@@ -1,0 +1,1 @@
+{"mcpServers":{"desktop-floating":{"args":["notes-mcp@latest"],"command":"npx"},"desktop-pinned":{"args":["-y","weather-mcp@3.0.1"],"command":"npx"}}}
