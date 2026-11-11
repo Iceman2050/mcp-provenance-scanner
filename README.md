@@ -130,4 +130,4 @@ mcp-provenance-scanner is built by **Ingenious AI**. Explore our security platfo
 - [ContentCraft AI](https://wa.me/5016691053?text=Hi%20Ingenious%20AI!%20I%20want%20early%20access%20to%20ContentCraft%20AI)
 
 
-> Built by Ingenious AI with Muse — get free tokens with invite code `2HCQH1`
+> Built by Ingenious AI
